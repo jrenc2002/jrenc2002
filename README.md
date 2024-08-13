@@ -26,6 +26,15 @@
 
 ### 后端
  [![Backend Skills](https://skillicons.dev/icons?i=python,pycharm,django,flask,go,nodejs,nestjs,nextjs)](https://skillicons.dev)
+
+
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrenc2002/jrenc2002/output/github-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrenc2002/jrenc2002/output/github-snake.svg">
+  <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
+</picture>
+
  
 ### 其它
    [![Other Skills](https://skillicons.dev/icons?i=figma,qt,c,cpp,cmake,github,gmail,linux,nodejs,photoshop,opencv,postman,vercel,git,mysql,nginx)](https://skillicons.dev)
