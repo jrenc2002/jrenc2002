@@ -6,7 +6,7 @@
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrenc2002/jrenc2002/output/github-snake-dark.svg?palette=github-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrenc2002/jrenc2002/output/github-snake.svg">
-  <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
+  <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jrenc2002/jrenc2002/snake-game/github-contribution-grid-snake.svg">
 </picture>
 
 | ᐕ)⁾⁾什么都会一点，对有意思的产品充满兴趣。
