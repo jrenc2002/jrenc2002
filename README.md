@@ -18,7 +18,6 @@
 
 微信公众号: jrencslife  
 
-[![wakatime](https://wakatime.com/badge/user/d96ca117-185e-408e-b1a2-892e09cc7d3c.svg)](https://wakatime.com/@d96ca117-185e-408e-b1a2-892e09cc7d3c)
 
 <div>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jrenc2002&show_icons=true&include_all_commits=true&count_private=true"/>
