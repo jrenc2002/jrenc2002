@@ -25,7 +25,7 @@
 
 </div>
 
-## 我的技术栈（报菜名环节）
+## 我在用的事物
 
 ### 前端
  [![Frontend Skills](https://skillicons.dev/icons?i=react,html,js,ts,npm,vscode,vite,vue,css,tailwind,jquery,sass,webstorm,nuxt,yarn,pinia,electron)](https://skillicons.dev)
