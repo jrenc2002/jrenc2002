@@ -31,7 +31,7 @@
  [![Frontend Skills](https://skillicons.dev/icons?i=react,html,js,ts,npm,vscode,vite,vue,css,tailwind,jquery,sass,webstorm,nuxt,yarn,pinia,electron)](https://skillicons.dev)
 
 ### 后端
- [![Backend Skills](https://skillicons.dev/icons?i=python,pycharm,django,flask,go,nodejs,nestjs,nextjs)](https://skillicons.dev)
+ [![Backend Skills](https://skillicons.dev/icons?i=python,pycharm,django,flask,go,nodejs,nextjs,fastify)](https://skillicons.dev)
  
 ### 其它
    [![Other Skills](https://skillicons.dev/icons?i=figma,qt,c,cpp,cmake,github,gmail,linux,nodejs,photoshop,opencv,postman,vercel,git,mysql,nginx)](https://skillicons.dev)
