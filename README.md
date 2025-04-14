@@ -26,7 +26,7 @@
 </div>
 
 ## 我在用的事物
-
+[![wakatime](https://wakatime.com/badge/user/d96ca117-185e-408e-b1a2-892e09cc7d3c.svg)](https://wakatime.com/@d96ca117-185e-408e-b1a2-892e09cc7d3c)
 ### 前端
  [![Frontend Skills](https://skillicons.dev/icons?i=react,html,js,ts,npm,vscode,vite,vue,css,tailwind,jquery,sass,webstorm,nuxt,yarn,pinia,electron)](https://skillicons.dev)
 
