@@ -1,8 +1,7 @@
 
 ## 你好 👋
-![Hello](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=Hello%20Everyone%20I%20am%20Jrenc&animate=true&speed=3&color=%2383ceb1)
 
-我是Jrenc，公司名叫归家望月。
+我是Jrenc，正在做HugLang。
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrenc2002/jrenc2002/output/github-snake-dark.svg?palette=github-dark">
