@@ -17,11 +17,11 @@
 
 微信公众号: jrencslife  
 
-<div>
+<!-- <div>
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jrenc2002&show_icons=true&theme=transparent"/> -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jrenc2002&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats%20(2025)&langs_count=10&layout=compact"/>
 
-</div>
+</div> -->
 
 ## 我在用的事物
 [![wakatime](https://wakatime.com/badge/user/d96ca117-185e-408e-b1a2-892e09cc7d3c.svg)](https://wakatime.com/@d96ca117-185e-408e-b1a2-892e09cc7d3c)
